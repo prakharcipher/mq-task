@@ -44,7 +44,7 @@ class App extends Component {
         </div>
         <Form onSubmit={this.handleSubmit} open={this.state.open} />
         <FloatingActionButton
-          backgroundColor="gray"
+          backgroundColor="#B58D3D"
           onClick={() => this.setState({ open: true })}
           style={{
             position: 'absolute',

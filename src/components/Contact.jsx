@@ -75,7 +75,7 @@ class Contact extends Component {
               width: '280px',
               margin: 'auto',
               borderRadius: '50%',
-              border: '4px solid yellow'
+              border: '4px solid #B58D3D'
             }}
           >
             <img
